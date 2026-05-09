@@ -1,4 +1,5 @@
 # Protocol Stack Quest
+Ссылка - https://lulema22.github.io/information-theory-1/
 
 **Protocol Stack Quest** — это интерактивный HTML-сайт для объяснения темы **«Стек протоколов»** в компьютерных сетях.
 
